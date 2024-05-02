@@ -1,0 +1,9 @@
+@media (max-width:770px){
+    .login_section{
+        background: url('https://media.istockphoto.com/id/618865294/photo/new-york-taxi.jpg?s=612x612&w=0&k=20&c=5_lploq0FbK1tbDcaHbPJxREZahrtD2hzY3VGQOEMkI=');
+        background-size:cover;
+    }   
+    .vh-md-100 {
+        min-height: 100vh;
+      }
+}
